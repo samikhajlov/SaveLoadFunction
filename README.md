@@ -1,7 +1,7 @@
 # SaveLoadFunction
 Java function for save / load object to file
 
-aveliable function
+Aveliable function
 <ul>
   <li>String[] getFileName(String path)</li>
   <li>File castFileFromObject(Object path)</li>
